@@ -3,3 +3,7 @@ void Start()
 
 void Update() 
 {}
+
+
+void Jump();
+void Move();
